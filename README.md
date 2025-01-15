@@ -19,8 +19,4 @@ pkg install python3
 git clone https://github.com/EnigmaXploit/OSINT
 cd OSINT
 bash setup.sh
-python3 GhostTR.py
-<details>
-<summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/EnigmaXploit">EnigmaXploit</a></strong>
-</details>
+python3 ARES.py.py
